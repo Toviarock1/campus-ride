@@ -5,6 +5,21 @@
       "bundler": "metro"
     },
     "name": "campus-ride",
-    "slug": "campus-ride"
+    "slug": "campus-ride",
+    "extra": {
+      "eas": {
+        "projectId": "a263fba0-ac7e-4da5-952a-f394671ef623"
+      }
+    },
+    "android": {
+      "package": "com.toviarock1.campusride"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a263fba0-ac7e-4da5-952a-f394671ef623"
+    },
+    "ios": {}
   }
 }
